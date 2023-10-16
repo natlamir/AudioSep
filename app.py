@@ -79,4 +79,4 @@ with gr.Blocks(title="AudioSep") as demo:
     gr.Markdown("## Examples")
     gr.Examples(examples=EXAMPLES, inputs=[input_audio, text])
 
-demo.queue().launch(share=True)
+demo.launch(inbrowser=True)
