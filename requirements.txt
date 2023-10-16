@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+gdown
+lightning==2.0.0
+transformers==4.28.1
+ftfy==6.1.1
+braceexpand==0.1.7
+webdataset==0.2.48
+soundfile==0.12.1
+wget==3.2
+h5py==3.8.0
+gradio==3.47.1
+torchlibrosa==0.1.0
